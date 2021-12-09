@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Using `drat`
+
+## What is `drat`?
+
+## Why this document?
+
+## Hands-on
+
+### Adding packages to your `drat`
+
+### Using `GitHub` as repository
+
+### Using a local folder as repository
